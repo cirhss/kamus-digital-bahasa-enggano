@@ -1,0 +1,115 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Kamus Digital Bahasa Enggano
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: >-
+      University of Oxford; Centre for Interdisciplinary
+      Research on the Humanities and Social Sciences
+      (CIRHSS), Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: Charlotte
+    family-names: Hemmings
+    email: charlotte.hemmings@ling-phil.ox.ac.uk
+    affiliation: University of Oxford
+    orcid: 'https://orcid.org/0000-0002-3076-5544'
+  - given-names: Cokorda Rai Adi
+    family-names: Pramartha
+    email: cokorda@unud.ac.id
+    affiliation: >-
+      Centre for Interdisciplinary Research on the
+      Humanities and Social Sciences (CIRHSS), Udayana
+      University
+    orcid: 'https://orcid.org/0000-0002-2835-3989'
+  - given-names: Engga Zakaria
+    family-names: Sangian
+    email: ezs21072@gmail.com
+    affiliation: Universitas Dehasen Bengkulu
+    orcid: 'https://orcid.org/0009-0000-8802-6819'
+  - given-names: Dendi
+    family-names: Wijaya
+    email: dendi0587@gmail.com
+    affiliation: National Research and Innovation Agency
+    orcid: 'https://orcid.org/0000-0002-8767-9364'
+  - given-names: Sarah
+    family-names: Ogilvie
+    email: sarah.ogilvie@ling-phil.ox.ac.uk
+    affiliation: University of Oxford
+    orcid: 'https://orcid.org/0000-0002-9939-1448'
+  - given-names: Daniel
+    family-names: Krauße
+    email: krausse.daniel@gmail.com
+    affiliation: lattice–CNRS
+    orcid: 'https://orcid.org/0000-0002-9340-6960'
+  - given-names: I Wayan
+    family-names: Arka
+    email: wayan.arka@anu.edu.au
+    affiliation: >-
+      Australian National University; Centre for
+      Interdisciplinary Research on the Humanities and
+      Social Sciences (CIRHSS), Udayana University
+    orcid: 'https://orcid.org/0000-0002-2819-6186'
+  - given-names: Mary
+    family-names: Dalrymple
+    email: mary.dalrymple@ling-phil.ox.ac.uk
+    affiliation: University of Oxford
+    orcid: 'https://orcid.org/0000-0001-5723-5722'
+  - given-names: Bernd
+    family-names: Nothofer
+    orcid: 'https://orcid.org/0000-0001-9772-6155'
+    affiliation: Goethe-Universität Frankfurt am Main
+    email: bernd.nothofer@t-online.de
+  - given-names: Putu Widyantara
+    family-names: Artanta Wibawa
+    email: putuwaw973@gmail.com
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0009-0001-7471-6680'
+  - given-names: Putu Agus Dharma
+    family-names: Kusuma
+    email: agusdharma48@gmail.com
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0009-0003-4763-3761'
+  - given-names: I Putu Gede
+    family-names: Mahardika Adi Putra
+    email: mahardikagede0@gmail.com
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0009-0003-3150-1895'
+  - given-names: Anak Agung Ngurah Mahadana Apta
+    family-names: Gotra
+    email: ngurahmahadanaapta@student.unud.ac.id
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0009-0005-7246-1564'
+identifiers:
+  - type: doi
+    value: 10.25446/oxford.28188665
+    description: >-
+      University of Oxford's Sustainable Digital Scholarship
+      repository
+url: 'https://enggano.cirhss.org/'
+abstract: >-
+  This is a metadata record for Kamus Digital Bahasa
+  Enggano, the digital trilingual Enggano-Indonesian-English
+  dictionary of Contemporary Enggano.
+keywords:
+  - Enggano
+  - Computational Lexicography
+  - Bahasa Enggano
+  - Documentary Lexicography
+  - Digital Humanities
+  - Endangered Language Dictionary
+  - Endangered Language Documentation
+  - Kamus Digital Bahasa Enggano
+  - Corpus-Based Dictionary of Enggano
+  - Enggano Language
+  - Austronesian Language
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2025-01-11'
