@@ -59,3 +59,9 @@ Enggano*](https://enggano.cirhss.org/) dalam format *APA*
 
 Berkas PDF untuk kamus cetak *Kamus Bahasa Enggano* tersedia terbuka
 pada <https://doi.org/10.25446/oxford.28022312>.
+
+Kami juga menyediakan gambar *QR-code* untuk [kamus
+cetak](https://github.com/cirhss/kamus-digital-bahasa-enggano/blob/main/qr-code/bit.ly_kamus-cetak-enggano.png)
+dan [kamus
+digital](https://github.com/cirhss/kamus-digital-bahasa-enggano/blob/main/qr-code/bit.ly_kamus-digital-enggano.png)
+bahasa Enggano.
